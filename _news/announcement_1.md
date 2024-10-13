@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Intern at [Inter-American Development Bank](https://www.iadb.org/en) in Washington, D.C. (July to Augest, 2024)
+Intern at [Inter-American Development Bank](https://www.iadb.org/en) in Washington, D.C.
