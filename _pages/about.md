@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: # prof_pic.jpg
+  image: me.jpg # prof_pic.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -25,6 +25,9 @@ I am an incoming PhD student in the [Department of Computer Science](https://cs.
 
 Prior to this, I studied mathematics and computer science at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
 
+My research interests lie in the intersection of computer vision and natural language processing, with a focus on multimodal learning and vision-language reasoning. I am particularly interested in developing models that can understand and reason about visual content in a way that is interpretable and explainable.
+
+Aside from research, I rank in the top 1% competitor on [Kaggle](https://www.kaggle.com/nightsh4de), [Leetcode](https://leetcode.com/u/Night_Shade/), and [Dota2](https://www.opendota.com/players/108382134).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

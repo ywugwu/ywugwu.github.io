@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Intern at [Inter-American Development Bank](https://www.iadb.org/en) in Washington, D.C.
+Internship at [Inter-American Development Bank](https://www.iadb.org/en) in Washington, D.C.
