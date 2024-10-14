@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Incoming PhD Student at the George Washington University -->
 
-I am an incoming PhD student in the [Department of Computer Science](https://cs.engineering.gwu.edu/) at the [George Washington University](https://www.gwu.edu/), where I will be supervised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
+I am an incoming PhD student in the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where I will be supervised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
 
-Prior to this, I studied mathematics and computer science in the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
+Prior to this, I studied mathematics and computer science at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
