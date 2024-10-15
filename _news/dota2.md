@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Reached 7k MMR in [Dota 2](https://www.dota2.com/leaderboards/#americas)
+<!-- Reached 7k MMR in [Dota 2](https://www.dota2.com/leaderboards/#americas) -->
