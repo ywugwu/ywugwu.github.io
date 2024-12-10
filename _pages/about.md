@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Incoming PhD Student at the George Washington University -->
 
-I am an incoming PhD student in the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where I will be supervised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
+I am a current MSCS student in the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where I am supervised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
 
 Prior to this, I studied mathematics and computer science at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
 
