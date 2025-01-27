@@ -1,4 +1,4 @@
-FROM ruby:slim
+FROM ruby:latest
 
 # uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -11,7 +11,7 @@ ENV DEBIAN_FRONTEND noninteractive
 
 LABEL authors="Amir Pourmand,George Araújo" \
       description="Docker image for al-folio academic template" \
-      maintainer="Amir Pourmand"
+      maintainer="Tomasz Bednarz"
 
 # uncomment these if you are having this issue with the build:
 # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
@@ -24,7 +24,6 @@ RUN apt-get update -y && \
     apt-get install -y --no-install-recommends \
         build-essential \
         curl \
-        git \
         imagemagick \
         inotify-tools \
         locales \
@@ -54,11 +53,13 @@ ENV EXECJS_RUNTIME=Node \
 RUN mkdir /srv/jekyll
 
 # copy the Gemfile and Gemfile.lock to the image
-ADD Gemfile.lock /srv/jekyll
+# ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
 
 # set the working directory
 WORKDIR /srv/jekyll
+
+RUN bundle config build.nokogiri --use-system-libraries
 
 # install jekyll and dependencies
 RUN gem install --no-document jekyll bundler
