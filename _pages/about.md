@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: me2.jpg # prof_pic.jpg
+  image: me2.png # prof_pic.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -20,11 +20,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <!-- Incoming PhD Student at the George Washington University -->
+Yu Wu (吴钰) is a Machine Learning Engineer at [TikTok](https://www.tiktok.com/).
 
-I am a current MSCS student in the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where I am supervised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
+He received his Master's degree in Computer Science from the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where he was fortunate to be advised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
 
-Prior to this, I studied mathematics and computer science at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
+Before that, he studied Mathematics and Computer Science at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
 
-My research interests lie in the intersection of computer vision and natural language processing, with a focus on multimodal learning and vision-language reasoning. I am particularly interested in developing models that can understand and reason about visual content in a way that is interpretable and explainable.
+His research interests lie at the intersection of Computer Vision and Natural Language Processing, particularly Multimodal Learning and Vision-Language Reasoning. He is interested in developing models that understand and reason about visual content in ways that are both interpretable and explainable.
 
 
