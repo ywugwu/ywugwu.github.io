@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <!-- Incoming PhD Student at the George Washington University -->
-Yu Wu (吴钰) is a Machine Learning Engineer at [TikTok](https://www.tiktok.com/).
+Yu Wu (吴钰) is currently a Machine Learning Engineer at [TikTok](https://www.tiktok.com/).
 
 He received his Master's degree in Computer Science from the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where he was fortunate to be advised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
 
