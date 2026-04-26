@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Meta](https://www.meta.com/about/) 
+Joined [Meta](https://www.meta.com/about/).
