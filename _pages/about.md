@@ -20,12 +20,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <!-- Incoming PhD Student at the George Washington University -->
-Yu Wu (吴钰) is currently a Machine Learning Engineer at [TikTok](https://www.tiktok.com/).
+Yu Wu (吴钰) is currently a Machine Learning Engineer at Meta.
 
 He received his Master's degree in Computer Science from the [Department of Computer Science](https://cs.engineering.gwu.edu/) at [George Washington University](https://www.gwu.edu/), where he was fortunate to be advised by [Prof. Robert Pless](https://www2.seas.gwu.edu/~pless/).
 
 Before that, he studied Mathematics and Computer Science at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/) in Shenzhen, China.
 
-His research interests lie at the intersection of Computer Vision and Natural Language Processing, particularly Multimodal Learning and Vision-Language Reasoning. He is interested in developing models that understand and reason about visual content in ways that are both interpretable and explainable.
-
-
+His research interests span a broad range of topics in Machine Learning. He is currently focused on scaling industrial machine learning systems with pretrained foundation models.
