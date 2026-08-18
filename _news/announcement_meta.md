@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Meta](https://www.meta.com/about/).
+Joined {% include company_link.liquid name="Meta" icon="fa-meta" url="https://www.meta.com/about/" suffix="." %}

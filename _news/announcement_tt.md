@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a Machine Learning Engineer at [TikTok](https://www.tiktok.com/) in San Jose, CA.
+Started as a Machine Learning Engineer at {% include company_link.liquid name="TikTok" icon="fa-tiktok" url="https://www.tiktok.com/" suffix="." %}
