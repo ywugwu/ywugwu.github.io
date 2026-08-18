@@ -3,10 +3,7 @@ layout: about
 title: about
 permalink: /
 
-profile:
-  align: right
-  image: me2.png
-  image_circular: true
+profile: false
 
 selected_papers: true
 social: true
