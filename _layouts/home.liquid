@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<article class="home-page">
+  <header class="home-header">
+    <h1>
+      {{ site.first_name }}
+      {{ site.last_name }}
+      {% if page.preferred_name -%}
+        <span class="home-preferred-name">{{ page.preferred_name }}</span>
+      {%- endif %}
+    </h1>
+  </header>
+
+  <div class="home-intro">{{ content }}</div>
+
+  {% if page.social %}
+    <nav class="home-social" aria-label="Find me online">
+      {% include social_text.liquid %}
+    </nav>
+  {% endif %}
+
+  {% if page.announcements and page.announcements.enabled %}
+    <section class="home-section" aria-labelledby="updates-title">
+      <h2 id="updates-title"><a href="{{ '/news/' | relative_url }}">Updates</a></h2>
+      {% include news.liquid limit=true %}
+    </section>
+  {% endif %}
+
+  {% if page.selected_papers %}
+    <section class="home-section" aria-labelledby="publications-title">
+      <h2 id="publications-title"><a href="{{ '/publications/' | relative_url }}">Selected publications</a></h2>
+      <div class="home-publications">
+        {% bibliography --template home_publication --group_by none --query @*[selected=true]* %}
+      </div>
+    </section>
+  {% endif %}
+</article>

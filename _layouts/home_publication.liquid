@@ -1,0 +1,9 @@
+---
+---
+<a class="home-publication" href="{{ '/publications/' | relative_url }}#{{ entry.key }}">
+  <time class="home-publication-year" datetime="{{ entry.year }}">{{ entry.year }}</time>
+  <span class="home-publication-title">{{ entry.title }}</span>
+  {% if entry.abbr %}
+    <abbr class="home-publication-venue" title="{{ entry.journal | default: entry.booktitle | escape }}">{{ entry.abbr }}</abbr>
+  {% endif %}
+</a>

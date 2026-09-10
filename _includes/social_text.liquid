@@ -1,0 +1,14 @@
+{% if site.data.socials.scholar_userid %}
+  <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" rel="me external noopener" target="_blank"
+    >Google Scholar</a
+  >
+{% endif %}
+{% if site.data.socials.github_username %}
+  <a href="https://github.com/{{ site.data.socials.github_username }}" rel="me external noopener" target="_blank">GitHub</a>
+{% endif %}
+{% if site.data.socials.linkedin_username %}
+  <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}/" rel="me external noopener" target="_blank">LinkedIn</a>
+{% endif %}
+{% if site.data.socials.kaggle_id %}
+  <a href="https://www.kaggle.com/{{ site.data.socials.kaggle_id }}" rel="me external noopener" target="_blank">Kaggle</a>
+{% endif %}
